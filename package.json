@@ -1,0 +1,29 @@
+{
+  "name": "node-spider",
+  "version": "1.0.0",
+  "description": "web spider",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryChen0506/node-spider.git"
+  },
+  "keywords": [
+    "spider",
+    "node",
+    "koa"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryChen0506/node-spider/issues"
+  },
+  "homepage": "https://github.com/HarryChen0506/node-spider#readme",
+  "dependencies": {
+    "koa": "^2.5.2",
+    "koa-router": "^7.4.0"
+  }
+}
