@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/HarryChen0506/node-spider#readme",
   "dependencies": {
+    "axios": "^0.18.0",
     "koa": "^2.5.2",
     "koa-router": "^7.4.0"
   }
