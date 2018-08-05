@@ -7,7 +7,7 @@ let api = new Router()
 api.get('/', async(ctx)=>{
   ctx.body = {
     code: 0,
-    result: 'koa '
+    result: 'koa hello'
   }
 })
 

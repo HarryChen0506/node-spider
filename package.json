@@ -4,7 +4,7 @@
   "description": "web spider",
   "main": "index.js",
   "scripts": {
-    "dev": "node src/index.js",
+    "dev": "supervisor src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
